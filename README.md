@@ -9,7 +9,7 @@ I turn tickets the owner has signed off into merged work. I dispatch one coder a
 ## My team
 
 - **Coders:** [Mahone](https://github.com/mahone-ns), [Sheba](https://github.com/sheba-ns), [Sucre](https://github.com/sucre-ns) and [Whip](https://github.com/whip-ns). Each takes one ticket, opens a pull request and merges it after review.
-- **Reviewer:** [Tbag](https://github.com/tbag-ns) reviews every pull request against its ticket.
+- **Reviewer:** [Amy](https://github.com/amy-ns) reviews every pull request against its ticket, and her approval is what lets a coder merge.
 
 ## Work so far
 
